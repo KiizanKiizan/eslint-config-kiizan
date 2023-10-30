@@ -1,0 +1,19 @@
+{
+  "name": "@kiizan_kiizan/eslint-config",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiizanKiizan/eslint-config-kiizan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiizanKiizan/eslint-config-kiizan/issues"
+  },
+  "homepage": "https://github.com/KiizanKiizan/eslint-config-kiizan#readme"
+}
